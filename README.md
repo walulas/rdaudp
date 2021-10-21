@@ -1,3 +1,3 @@
 # rdaudp
 
-RDA5807M Over UDP Protocol.
+RDA5807M Over MicroPython UDP Protocol.
