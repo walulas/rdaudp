@@ -27,7 +27,7 @@ import uos
 uos.rename("rdaudp.py", "main.py")
 ```
 ##
-![View Control Using UDP Comtroller App](https://raw.githubusercontent.com/walulas/rdaudp/master/udp.jpg)
+![View Control Using UDP Controller App](https://raw.githubusercontent.com/walulas/rdaudp/master/udp.jpg)
 ## Info
 More Support, Contact Me On [Twitter](https://twitter.com/satguz) or
 [Instagram](https://instagram.com/walulas).
