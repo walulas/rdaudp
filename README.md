@@ -2,8 +2,8 @@
 
 RDA5807M Over MicroPython UDP Protocol.
 ## Usage
-Simple, Just Send Command Below.
-### Command:
+Simple, Just Send `Command` Below.
+### `Command:`
 ```bash
 f+  for  Increasing Frequency
 f-  for  Decreasing Frequency
