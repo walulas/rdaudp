@@ -4,12 +4,13 @@ RDA5807M Over MicroPython UDP Protocol.
 Simple, Just Send `Command` Below.
 ### `Command:`
 ```bash
-f+  for  Increasing Frequency
-f-  for  Decreasing Frequency
-v+  for  Increasing Volume
-v-  for  Decreasing Volume
+
 rt  for  Flat Audio Output
 bs  for  BassBoost Mode ON
+v+  for  Increasing Volume
+v-  for  Decreasing Volume
+f+  for  Increasing Frequency
+f-  for  Decreasing Frequency
 oi  for  Power Toggle (on\off)
 mt  for  Mute Toggle (mute\unmute)
 mn  for  Stereo Toggle (stereo\force mono)
